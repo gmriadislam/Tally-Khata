@@ -1,0 +1,6 @@
+{
+  "name": "ট্যালি খাতা - ডিজিটাল হিসাব ও ইনভেন্টরি",
+  "description": "ক্ষুদ্র ও মাঝারি ব্যবসার দৈনন্দিন বাকি-জমা খাতা, স্টক ইনভেন্টরি ও ক্যাশ হিসাবের সহজ ডিজিটাল সমাধান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
